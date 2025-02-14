@@ -3,3 +3,7 @@
 .coverage
 .idea/
 *.iml
+.venv
+Lib
+pyvenv.cfg
+Scripts
