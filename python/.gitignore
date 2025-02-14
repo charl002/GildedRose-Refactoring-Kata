@@ -4,11 +4,8 @@
 .idea/
 .venv
 *.iml
-<<<<<<< HEAD
 __pycache__
-=======
 .venv
 Lib
 pyvenv.cfg
 Scripts
->>>>>>> d015b906cd0da132c2c0eca66bebc67bb47a926b
